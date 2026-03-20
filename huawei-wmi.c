@@ -140,7 +140,7 @@ static const struct key_entry huawei_wmi_keymap[] = {
 	{ KE_KEY,     0x28a,              { KEY_CONTROLPANEL } },
 	// Sidebar (notifications) key
 	{ KE_KEY,     0x28b,              { KEY_NOTIFICATION_CENTER } },
-	{ KE_KEY,     0x28e,              { KEY_SELECTIVE_SCREENSHOT } },
+	{ KE_KEY,     0x28e,              { KEY_PRINT } },
 	// Keyboard backlight (F-keys)
 	{ KE_IGNORE,  KBDLIGHT_KEY_0,     { KEY_KBDILLUMTOGGLE } },
 	{ KE_IGNORE,  KBDLIGHT_KEY_1,     { KEY_KBDILLUMDOWN } },
