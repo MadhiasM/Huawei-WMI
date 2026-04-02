@@ -61,7 +61,7 @@ Should be similar in other distributions.
 2. Clone and *update* / *install* the module.
 
 ```sh
-git clone https://github.com/aymanbagabas/Huawei-WMI
+git clone https://github.com/MadhiasM/Huawei-WMI
 cd Huawei-WMI
 make
 # To update use:
